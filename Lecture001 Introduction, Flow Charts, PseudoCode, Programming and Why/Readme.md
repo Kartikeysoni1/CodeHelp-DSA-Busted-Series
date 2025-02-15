@@ -1,5 +1,5 @@
 <h6>
-In this video, We would learn about what is flow chart & what is pseudocode. What is use of programming amd why to do programming?
+In this video, We would learn about what is flow chart & what is pseudocode. What is use of programming and why to do programming?
 </h6>
 <ul>
   <li>
