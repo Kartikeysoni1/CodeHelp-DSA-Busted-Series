@@ -5,7 +5,7 @@ int main() {
 
     int n ;
     cout<<" enter the value of n" <<endl;
-    // cin >> n;
+    cin >> n;
 
     cout<<"printing count from 1 to n" << endl;
     int i = 1;
